@@ -1,7 +1,7 @@
 public class HolaGit{
 	public static void main(String[] args){
 		System.out.println("Hola mundo");
-		System.out.print("");
-		System.out.println("Nueva linea agregada2"): 
+		System.out.println("Nueva linea agregada"); 
+		System.out.print("Subiendo a Github");
 	}
 }
